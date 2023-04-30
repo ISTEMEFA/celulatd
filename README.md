@@ -1,10 +1,6 @@
 #Dependencias
 #### `npm install`
-#### `npm install react-bootstrap`
-#### `npm install react-responsive`
-#### `npm i react-chartjs-2 chart.js`
 
-#### `npm install -g sass`
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
